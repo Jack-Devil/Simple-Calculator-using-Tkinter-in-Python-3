@@ -1,2 +1,2 @@
-# Simple-Calculator-using-Tkinter-in-Python-3
-It is a basic calculator developed by Python using the GUI toolkit Tkinter.  
+# Simple-Calculator-and-Calendar-using-Tkinter-in-Python-3
+It is a basic calculator and simple calendar developed by Python using the GUI toolkit Tkinter.  
